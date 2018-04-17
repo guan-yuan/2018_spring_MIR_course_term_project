@@ -1,5 +1,5 @@
 # 2018 spring MIR course term project
-此為MIR term project之repository, 如有要補充或新增的內容歡迎自行edit。
+此為MIR term project之repository, 如有要補充或新增的內容歡迎自行edit。Porject主要會有的分工項目有**1. 收集跟整理datasets**, **2. 音樂特徵處理或格式轉換**, **3.deep larning model設計跟程式撰寫**。盡量於每週二了解彼此該周進度，並共同擬定下週進度。  
 
 ## Memo:
 #### 4/24:
