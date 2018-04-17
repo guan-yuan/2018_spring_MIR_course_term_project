@@ -13,4 +13,10 @@
 若datasets之資料標註有部份缺失或不足，我們也可以評估是否值得自行標註，可以一併拿到資料標註方面的分數。
 ```
 
-## Memo:
+#### 6/19:
+```
+Term Project Presentation
+```
+
+
+## Ideal Target:
