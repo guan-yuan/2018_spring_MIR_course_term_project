@@ -33,11 +33,11 @@ AAAI 2019, about September
 
 
 ## Papers:
-- [A Tutorial on Deep Learning for Music Information Retrieval (拉高發deep learning for music論文門檻的論文)]
+- [A Tutorial on Deep Learning for Music Information Retrieval (拉高發deep learning for music論文門檻的論文)](https://arxiv.org/abs/1709.04396)
 
 - [Learning Transferable Features with Deep Adaptation Networks (經典domain adaptation相關論文)](https://arxiv.org/abs/1502.02791)
 
-- [Transfer learning for music classification and regression tasks, ISMIR 2017 (Transfer learning for music的重要參考論文)](https://arxiv.org/abs/1703.09179)
+- [Transfer learning for music classification and regression tasks, ISMIR 2017 (Transfer learning for music的重要論文)](https://arxiv.org/abs/1703.09179)
 
 
 ## Codes:
