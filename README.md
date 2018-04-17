@@ -27,5 +27,14 @@ AAAI 2019, about September
 ```
 
 ## Tutorials:
-李宏毅 ML Lecture 19: Transfer Learning  
+```
+李宏毅 ML Lecture 19 Transfer Learning: (優先)
 https://www.youtube.com/watch?v=qD6iD4TFsdQ
+```
+
+```
+PyTorch Tutorials: (推薦)
+http://pytorch.org/tutorials/
+```
+
+## Codes:
