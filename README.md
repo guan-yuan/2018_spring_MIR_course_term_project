@@ -6,12 +6,12 @@
 ``` 
 分析與比較目前現有且公開的資料集。分類或回歸相關的tasks皆可，這個階段先放寬選擇，廣度優先。理想的datasets有下列兩種形式：
 1. For Multitask Training:
-理想的datasets為large-scale且具有多種類型資料標註(e.g. 情感分類, 調性分析...)。
+理想的datasets為large-scale且具有多種類型的資料標註(e.g. 情感分類, 調性分析...)。
 
-2. For Domain Adversarial Training:
+2. For Domain Adversarial Training (Domain Adaptation):
 理想為數個(至少兩個, 最好三個以上)不同domain的datasets，其具有相同的分類或回歸目標(e.g. 同為情感分類)。
 
-若datasets之資料標註有部份缺失或不足，我們也可以評估是否值得自行標註，可以一併拿到資料標註方面的分數。
+若datasets之資料標註有部份缺失或不足，我們也可以評估是否值得自行標註，或許可以一併拿到資料標註方面的分數。
 ```
 
 #### 6/19:
@@ -31,12 +31,14 @@ AAAI 2019, about September
 
 - [PyTorch Tutorials: (推薦)](http://pytorch.org/tutorials/)
 
+
 ## Papers:
 - [A Tutorial on Deep Learning for Music Information Retrieval (拉高發deep learning for music論文門檻的論文)]
 
 - [Learning Transferable Features with Deep Adaptation Networks (經典domain adaptation相關論文)](https://arxiv.org/abs/1502.02791)
 
 - [Transfer learning for music classification and regression tasks, ISMIR 2017 (Transfer learning for music的重要參考論文)](https://arxiv.org/abs/1703.09179)
+
 
 ## Codes:
 - [迁移学习 Transfer Learning 代碼全集](https://github.com/jindongwang/transferlearning/tree/master/code)
