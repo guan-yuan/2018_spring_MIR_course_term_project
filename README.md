@@ -44,3 +44,6 @@ AAAI 2019, about September
 - [迁移学习 Transfer Learning 代碼全集](https://github.com/jindongwang/transferlearning/tree/master/code)
 
 - [Transfer learning for music classification and regression tasks 原作代碼](https://github.com/keunwoochoi/transfer_learning_music)
+
+## Datasets:
+- [ISMIR Resources](http://www.ismir.net/resources.html#datasets)
