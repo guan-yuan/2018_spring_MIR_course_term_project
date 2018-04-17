@@ -1,4 +1,5 @@
 # 2018 spring MIR course term project
+此為MIR term project之repository, 如有要補充或新增的內容歡迎自行edit。
 
 ## Memo:
 #### 4/24:
@@ -24,3 +25,7 @@ Term Project Presentation
 ```
 AAAI 2019, about September
 ```
+
+## Tutorials:
+李宏毅 ML Lecture 19: Transfer Learning  
+https://www.youtube.com/watch?v=qD6iD4TFsdQ
