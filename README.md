@@ -29,10 +29,16 @@ AAAI 2019, about September
 ## Tutorials:
 - [李宏毅 ML Lecture 19 Transfer Learning: (優先)](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
 
+- [PyTorch Tutorials: (推薦)](http://pytorch.org/tutorials/)
 
-```
-PyTorch Tutorials: (推薦)
-http://pytorch.org/tutorials/
-```
+## Papers:
+- [A Tutorial on Deep Learning for Music Information Retrieval (拉高發deep learning for music論文門檻的論文)]
+
+- [Learning Transferable Features with Deep Adaptation Networks (經典domain adaptation相關論文)](https://arxiv.org/abs/1502.02791)
+
+- [Transfer learning for music classification and regression tasks, ISMIR 2017 (Transfer learning for music的重要參考論文)](https://arxiv.org/abs/1703.09179)
 
 ## Codes:
+- [迁移学习 Transfer Learning 代碼全集](https://github.com/jindongwang/transferlearning/tree/master/code)
+
+- [Transfer learning for music classification and regression tasks 原作代碼](https://github.com/keunwoochoi/transfer_learning_music)
