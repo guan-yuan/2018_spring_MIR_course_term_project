@@ -2,7 +2,8 @@
 此為MIR term project之repository, 如有要補充或新增的內容歡迎自行edit。Porject主要會有的分工項目有**1. 收集跟整理datasets**, **2. 音樂特徵處理或格式轉換**, **3.deep larning model設計跟程式撰寫**。盡量於每週二了解彼此該周進度，並共同擬定下週進度。  
 
 ## Memo:
-- 4/24:
+``` 
+4/24:
 分析與比較目前現有且公開的資料集。分類或回歸相關的tasks皆可，這個階段先放寬選擇，廣度優先。理想的datasets有下列兩種形式：  
 1. For Multitask Training:
 理想的datasets為large-scale且具有多種類型的資料標註(e.g. 情感分類, 調性分析...)。
@@ -10,11 +11,12 @@
 理想為數個(至少兩個, 最好三個以上)不同domain的datasets，其具有相同的分類或回歸目標(e.g. 同為情感分類)。 
 
 若datasets之資料標註有部份缺失或不足，我們也可以評估是否值得自行標註，或許可以一併拿到資料標註方面的分數。第一周先放寬選擇，建議可以先上完李宏毅transfer learning的影片再開始著手研究。Multitask Training與Domain Adversarial Training皆為可行的方向。
+```
 
-
-- 6/19:
+```
+6/19:
 Term Project Presentation
-
+```
 
 
 ## Ideal Target:
