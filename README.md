@@ -54,3 +54,5 @@ AAAI 2019, about September
 - [Piano-midi.de: classical piano pieces](http://www.piano-midi.de/)
 
 - [Kaggle上關於Music的datasets](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2304)
+
+- [FMA: A Dataset For Music Analysis, ISMIR 2017](https://github.com/mdeff/fma)
