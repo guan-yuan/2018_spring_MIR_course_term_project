@@ -52,3 +52,5 @@ AAAI 2019, about September
 - [Cleaned version of the Nottingham dataset (with MIDI conversion)](https://github.com/jukedeck/nottingham-dataset)
 
 - [Piano-midi.de: classical piano pieces](http://www.piano-midi.de/)
+
+- [Kaggle上關於Music的datasets](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2304)
