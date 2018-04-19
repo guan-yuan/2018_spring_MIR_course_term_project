@@ -47,7 +47,7 @@ AAAI 2019, about September
 ## Datasets:
 - [ISMIR Resources](http://www.ismir.net/resources.html#datasets)
 
-- [Nottingham Music Database：over 1000 folk tunes](http://abc.sourceforge.net/NMD/)
+- [Nottingham Music Database: over 1000 folk tunes](http://abc.sourceforge.net/NMD/)
 
 - [Cleaned version of the Nottingham dataset (with MIDI conversion)](https://github.com/jukedeck/nottingham-dataset)
 
