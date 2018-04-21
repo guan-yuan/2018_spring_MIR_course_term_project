@@ -26,9 +26,11 @@ AAAI 2019, about September
 ```
 
 ## Tutorials:
-- [李宏毅 ML Lecture 19 Transfer Learning: (優先)](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
+- [李宏毅 ML Lecture 19 Transfer Learning (優先)](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
 
-- [PyTorch Tutorials: (推薦)](http://pytorch.org/tutorials/)
+- [PyTorch Tutorials (推薦)](http://pytorch.org/tutorials/)
+
+- [MMD ：maximum mean discrepancy (Domain Adaptation 常用的數學理論)](https://blog.csdn.net/a1154761720/article/details/51516273)
 
 
 ## Papers:
@@ -37,6 +39,10 @@ AAAI 2019, about September
 - [Learning Transferable Features with Deep Adaptation Networks (經典domain adaptation相關論文)](https://arxiv.org/abs/1502.02791)
 
 - [Transfer learning for music classification and regression tasks, ISMIR 2017 (Transfer learning for music的重要論文)](https://arxiv.org/abs/1703.09179)
+
+- [A Kernel Method for the Two-Sample-Problem (MMD原始論文)](http://www.cyberneum.de/fileadmin/user_upload/files/publications/NIPS2006_0583_4193%5B0%5D.pdf)
+
+- [Optimal kernel choice for large-scale two-sample tests (多核MMD論文，含Linear Time近似解推導)](Optimal kernel choice for large-scale two-sample tests)
 
 
 ## Codes:
