@@ -42,7 +42,7 @@ AAAI 2019, about September
 
 - [A Kernel Method for the Two-Sample-Problem (MMD原始論文)](http://www.cyberneum.de/fileadmin/user_upload/files/publications/NIPS2006_0583_4193%5B0%5D.pdf)
 
-- [Optimal kernel choice for large-scale two-sample tests (多核MMD論文，含Linear Time近似解推導)](Optimal kernel choice for large-scale two-sample tests)
+- [Optimal kernel choice for large-scale two-sample tests (多核MMD論文，含Linear Time近似解推導)](https://papers.nips.cc/paper/4727-optimal-kernel-choice-for-large-scale-two-sample-tests)
 
 
 ## Codes:
