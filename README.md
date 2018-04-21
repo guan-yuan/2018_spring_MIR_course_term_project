@@ -30,7 +30,7 @@ AAAI 2019, about September
 
 - [PyTorch Tutorials (推薦)](http://pytorch.org/tutorials/)
 
-- [MMD ：maximum mean discrepancy (Domain Adaptation 常用的數學理論)](https://blog.csdn.net/a1154761720/article/details/51516273)
+- [MMD: maximum mean discrepancy (Domain Adaptation 常用的數學理論)](https://blog.csdn.net/a1154761720/article/details/51516273)
 
 
 ## Papers:
