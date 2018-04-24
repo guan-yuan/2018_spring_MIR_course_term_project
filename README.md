@@ -62,3 +62,5 @@ AAAI 2019, about September
 - [Kaggle上關於Music的datasets](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2304)
 
 - [FMA: A Dataset For Music Analysis, ISMIR 2017](https://github.com/mdeff/fma)
+
+- [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
