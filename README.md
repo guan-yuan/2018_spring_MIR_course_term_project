@@ -15,9 +15,15 @@
 
 #### 6/19:
 ```
-Term Project Presentation
+Term Project Presentation (Order:17th)
+(10min Presentataion + 3min Q&A)
 ```
 
+#### 6/26:
+```
+Term Paper Deadline
+(Including Members' Contribution)
+```
 
 ## Ideal Target:
 經過兩個多月的努力，相關研究成果如果能投上國際甚至是頂級的Conferences，當然是最理想的。相關投稿與研究經驗，應該也能對之後的碩士論文及自己的研究有所幫助。以下為deadline與期末較為相近的Top Conferences:
