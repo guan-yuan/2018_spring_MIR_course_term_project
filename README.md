@@ -64,3 +64,7 @@ AAAI 2019, about September
 - [FMA: A Dataset For Music Analysis, ISMIR 2017](https://github.com/mdeff/fma)
 
 - [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
+
+- [MIR-1K Dataset](https://sites.google.com/site/unvoicedsoundseparation/mir-1k)
+
+- [Multi Media Eval](http://www.multimediaeval.org/datasets/)
