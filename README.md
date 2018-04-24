@@ -46,7 +46,7 @@ AAAI 2019, about September
 
 - [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features, ISMIR 2017 (如其名，使用多種特徵做多類別分類using MuMu dataset)](https://arxiv.org/abs/1707.04916)
 
-- [FMA: A Dataset For Music Analysis, ISMIR 2017](https://arxiv.org/abs/1612.01840)
+- [FMA: A Dataset For Music Analysis, ISMIR 2017 (FMA dataset的論文)](https://arxiv.org/abs/1612.01840)
 
 
 ## Codes:
