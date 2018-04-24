@@ -17,7 +17,7 @@
 ``` 
 繼續datasets之整理(同上週)，並將datasets相關的Statistics(e.g. sizes, features, labels, 及相關descriptions)紀錄於"Dataset Statistics"。  
 
-註: Dataset Statistics之紀錄格式範例可參考論文"FMA: A DATASET FOR MUSIC ANALYSIS"，或者有任何想法都歡迎提出。主要希望能了解該dataset提供哪些features, labels，以及較適合用於Multitask or Domain Adaptation，以便於將來
+註: Dataset Statistics之紀錄格式可參考論文"FMA: A DATASET FOR MUSIC ANALYSIS"，或者有任何想法都歡迎提出。主要希望能了解該dataset提供哪些features, labels，以及較適合用於Multitask or Domain Adaptation，以便於將來
 ```
 [Dataset Statistics](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)  
 [FMA: A DATASET FOR MUSIC ANALYSIS](https://arxiv.org/pdf/1612.01840.pdf)
@@ -33,6 +33,10 @@ Term Project Presentation (Order:17th)
 Term Paper Deadline
 (Including Members' Contribution)
 ```
+## Google Docs:
+- [Dataset Statistics (for datasets descriptions)](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)
+
+- [Models Statistics ()](https://docs.google.com/spreadsheets/d/1Ny_7KXNcD0C547nvd-2EmmWnhEhZ-_mGjLmKRjUnz5Q/edit?usp=sharing)
 
 ## Ideal Target:
 經過兩個多月的努力，相關研究成果如果能投上國際甚至是頂級的Conferences，當然是最理想的。相關投稿與研究經驗，應該也能對之後的碩士論文及自己的研究有所幫助。以下為deadline與期末較為相近的Top Conferences:
