@@ -78,3 +78,5 @@ AAAI 2019, about September
 - [MuMu (a Multimodal Music dataset with multi-label genre annotations)](https://www.upf.edu/en/web/mtg/mumu)
 
 - [OHHLA Lyrics](https://raw.githubusercontent.com/brannondorsey/ml4music-workshop/master/data/lyrics/data/ohhla_lyrics/input.txt)
+
+- [SALAMI Dataset](https://github.com/DDMAL/salami-data-public)
