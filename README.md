@@ -17,7 +17,7 @@
 ``` 
 繼續datasets之整理(同上週)，並將datasets相關的Statistics(e.g. sizes, features, labels, 及相關descriptions)紀錄於"Dataset Statistics"。  
 
-註: Dataset Statistics之紀錄格式可參考論文"FMA: A DATASET FOR MUSIC ANALYSIS"，或者有任何想法都歡迎提出。主要希望能了解該dataset提供哪些features, labels，以及較適合用於Multitask or Domain Adaptation，以便於將來設計相關實驗。  
+註: Dataset Statistics之紀錄格式可參考論文"FMA: A DATASET FOR MUSIC ANALYSIS"，或者有任何想法都歡迎提出。主要希望能了解該dataset提供哪些features, labels，以及較適合用於Multitask or Domain Adaptation，以便將來設計相關實驗。  
 ```
 [Dataset Statistics](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)  
 [FMA: A DATASET FOR MUSIC ANALYSIS](https://arxiv.org/pdf/1612.01840.pdf)
