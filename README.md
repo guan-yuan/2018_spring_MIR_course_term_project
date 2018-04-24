@@ -88,7 +88,7 @@ AAAI 2019, about September
 - [SALAMI Dataset](https://github.com/DDMAL/salami-data-public)
 
 
------from AWT_2015_Tutprial-----
+-----from AWT_2015_Tutorial-----
 
 #### Polyphonic datasets – chords/isolated notes
 
