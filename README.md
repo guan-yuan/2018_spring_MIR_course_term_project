@@ -74,3 +74,5 @@ AAAI 2019, about September
 - [Multi Media Eval](http://www.multimediaeval.org/datasets/)
 
 - [MuMu (a Multimodal Music dataset with multi-label genre annotations)](https://www.upf.edu/en/web/mtg/mumu)
+
+- [OHHLA Lyrics](https://raw.githubusercontent.com/brannondorsey/ml4music-workshop/master/data/lyrics/data/ohhla_lyrics/input.txt)
