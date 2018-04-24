@@ -50,6 +50,8 @@ AAAI 2019, about September
 
 - [Transfer learning for music classification and regression tasks 原作代碼](https://github.com/keunwoochoi/transfer_learning_music)
 
+- [Deep Learning for audio and text (Tartarus is a python module for Deep Learning experiments on Audio and Text and their combination)](https://github.com/sergiooramas/tartarus)
+
 ## Datasets:
 - [ISMIR Resources](http://www.ismir.net/resources.html#datasets)
 
