@@ -68,3 +68,5 @@ AAAI 2019, about September
 - [MIR-1K Dataset](https://sites.google.com/site/unvoicedsoundseparation/mir-1k)
 
 - [Multi Media Eval](http://www.multimediaeval.org/datasets/)
+
+- [MuMu (a Multimodal Music dataset with multi-label genre annotations)](https://www.upf.edu/en/web/mtg/mumu)
