@@ -88,7 +88,7 @@ AAAI 2019, about September
 - [SALAMI Dataset](https://github.com/DDMAL/salami-data-public)
 
 
--- from AWT_2015
+- from AWT_2015
 
 -- Polyphonic datasets – chords/isolated notes
 
@@ -111,7 +111,9 @@ AAAI 2019, about September
 -- Melody/baseline datasets
 
 - [RWC database –popular/royalty-free/genre subsets](https://staff.aist.go.jp/m.goto/RWC-MDB/)
+
 -- Percussive transcription datasets
+
 - [ENST-Drums](http://www.tsi.telecom-paristech.fr/aao/en/software-and-database/)
 - [200 Drum Machines](http://colinraffel.com/datasets/200DrumMachines.tar.gz)
 - [DREANSS dataset](http://mtg.upf.edu/download/datasets/dreanss)
