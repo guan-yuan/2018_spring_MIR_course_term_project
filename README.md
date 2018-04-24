@@ -44,7 +44,7 @@ AAAI 2019, about September
 
 - [Optimal kernel choice for large-scale two-sample tests (多核MMD論文，含Linear Time近似解推導)](https://papers.nips.cc/paper/4727-optimal-kernel-choice-for-large-scale-two-sample-tests)
 
-- [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features, ISMIR 2017 (如其名使用多種特徵做多類別分類, using MuMu dataset)](https://arxiv.org/abs/1707.04916)
+- [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features, ISMIR 2017 (如其名，使用多種特徵做多類別分類using MuMu dataset)](https://arxiv.org/abs/1707.04916)
 
 
 ## Codes:
