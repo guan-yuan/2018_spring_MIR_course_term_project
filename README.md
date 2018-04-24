@@ -44,6 +44,8 @@ AAAI 2019, about September
 
 - [Optimal kernel choice for large-scale two-sample tests (多核MMD論文，含Linear Time近似解推導)](https://papers.nips.cc/paper/4727-optimal-kernel-choice-for-large-scale-two-sample-tests)
 
+- [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features (如其名使用多種特徵做多類別分類, using MuMu dataset)]
+
 
 ## Codes:
 - [迁移学习 Transfer Learning 代碼全集](https://github.com/jindongwang/transferlearning/tree/master/code)
