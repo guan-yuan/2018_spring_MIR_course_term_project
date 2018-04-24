@@ -36,7 +36,7 @@ Term Paper Deadline
 ## Google Docs:
 - [Dataset Statistics (for datasets descriptions)](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)
 
-- [Models Statistics ()](https://docs.google.com/spreadsheets/d/1Ny_7KXNcD0C547nvd-2EmmWnhEhZ-_mGjLmKRjUnz5Q/edit?usp=sharing)
+- [Models Statistics (紀錄models之架構、超參數以及實驗結果)](https://docs.google.com/spreadsheets/d/1Ny_7KXNcD0C547nvd-2EmmWnhEhZ-_mGjLmKRjUnz5Q/edit?usp=sharing)
 
 ## Ideal Target:
 經過兩個多月的努力，相關研究成果如果能投上國際甚至是頂級的Conferences，當然是最理想的。相關投稿與研究經驗，應該也能對之後的碩士論文及自己的研究有所幫助。以下為deadline與期末較為相近的Top Conferences:
