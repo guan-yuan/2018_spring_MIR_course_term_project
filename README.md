@@ -13,6 +13,13 @@
 若datasets之資料標註有部份缺失或不足，我們也可以評估是否值得自行標註，或許可以一併拿到資料標註方面的分數。第一周先放寬選擇，建議可以先上完李宏毅transfer learning的影片再開始著手研究。Multitask Training與Domain Adversarial Training皆為可行的方向。
 ```
 
+#### 5/01:
+``` 
+繼續datasets之整理(同上週)，並將datasets相關的Statistics(e.g. sizes, features, labels, 及相關descriptions)紀錄於[Dataset Statistics](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)。  
+
+註: Dataset Statistics之紀錄格式範例可參考論文[FMA: A DATASET FOR MUSIC ANALYSIS](https://arxiv.org/pdf/1612.01840.pdf)，或者有任何想法都歡迎提出。主要希望能了解該dataset提供哪些features, labels，以及較適合用於Multitask or Domain Adaptation，以便於將來
+```
+
 #### 6/19:
 ```
 Term Project Presentation (Order:17th)
