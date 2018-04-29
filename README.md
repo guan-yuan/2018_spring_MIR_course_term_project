@@ -41,7 +41,8 @@ Term Paper Deadline
 ## Ideal Target:
 經過兩個多月的努力，相關研究成果如果能投上國際甚至是頂級的Conferences，當然是最理想的。相關投稿與研究經驗，應該也能對之後的碩士論文及自己的研究有所幫助。以下為deadline與期末較為相近的Top Conferences:
 ```
-AAAI 2019, about September
+AAAI 2019, 
+Deadline: September 5, 2018
 ```
 
 ## Tutorials:
