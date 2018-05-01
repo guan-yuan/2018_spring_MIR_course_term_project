@@ -81,6 +81,10 @@ Deadline: September 5, 2018
 
 - [FMA: A Dataset For Music Analysis, ISMIR 2017 (FMA dataset的論文)](https://arxiv.org/abs/1612.01840)
 
+- [Representation Learning of Music Using Artist Labels, ICASSP 2018](https://arxiv.org/abs/1710.06648)
+
+- [The Effects of Noisy Labels on Deep Convolutional Neural Networks for Music Tagging](https://arxiv.org/abs/1706.02361)
+
 
 ## Codes:
 - [迁移学习 Transfer Learning 代碼全集](https://github.com/jindongwang/transferlearning/tree/master/code)
