@@ -79,11 +79,11 @@ Deadline: September 5, 2018
 ## Datasets:
 - [ISMIR Resources](http://www.ismir.net/resources.html#datasets)
 
-- ~~[Nottingham Music Database: over 1000 folk tunes](http://abc.sourceforge.net/NMD/)~~
+- ~~[Nottingham Music Database: over 1000 folk tunes](http://abc.sourceforge.net/NMD/)
 
-- ~~[Cleaned version of the Nottingham dataset (with MIDI conversion)](https://github.com/jukedeck/nottingham-dataset)~~
+- ~~[Cleaned version of the Nottingham dataset (with MIDI conversion)](https://github.com/jukedeck/nottingham-dataset)
 
-- [Piano-midi.de: classical piano pieces](http://www.piano-midi.de/)
+- ~~[Piano-midi.de: classical piano pieces](http://www.piano-midi.de/)
 
 - [Kaggle上關於Music的datasets](https://www.kaggle.com/datasets?sortBy=hottest&group=public&page=1&pageSize=20&size=all&filetype=all&license=all&tagids=2304)
 
