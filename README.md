@@ -30,7 +30,7 @@
 ```
 [Models Statistics](https://docs.google.com/spreadsheets/d/1Ny_7KXNcD0C547nvd-2EmmWnhEhZ-_mGjLmKRjUnz5Q/edit?usp=sharing)
 
-註: 由於[FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)的品質跟資料數量皆相當不錯，較適合與其他dataset做Domain Adversarial Training，且提供相當豐富的features，建議可以先run看看其提供的相關工具及baseline models(附於dataset之github中)。
+註: 由於[FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)的品質跟資料數量皆相當不錯，較適合與其他dataset做transfer learning，且提供相當豐富的features，建議可以先run看看其提供的相關工具及baseline models(附於dataset之github中)。
 
 [FMA Baselines連結](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb#Baselines)  
 <img src="https://github.com/guan-yuan/2018_spring_MIR_course_term_project/blob/master/imgs/fma_baselines.PNG" width="50%" height="50%">  
