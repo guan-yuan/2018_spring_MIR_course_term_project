@@ -91,6 +91,8 @@ Deadline: September 5, 2018
 
 - [Million Song Dataset](https://labrosa.ee.columbia.edu/millionsong/)
 
+- [Million Song Dataset Benchmarks](http://www.ifs.tuwien.ac.at/mir/msd/)
+
 - [MIR-1K Dataset](https://sites.google.com/site/unvoicedsoundseparation/mir-1k)
 
 - [Multi Media Eval](http://www.multimediaeval.org/datasets/)
