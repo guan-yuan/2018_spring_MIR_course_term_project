@@ -33,7 +33,7 @@
 註: 由於[FMA: A Dataset For Music Analysis, ISMIR 2017](https://github.com/mdeff/fma)的品質跟資料數量皆相當不錯，較適合與其他dataset做Domain Adversarial Training，且提供相當豐富的features，建議可以先run看看其提供的相關工具及baseline models(附於dataset之github中)。
 
 [FMA Baselines](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb#Baselines)
-<img src="https://github.com/guan-yuan/2018_spring_MIR_course_term_project/blob/master/imgs/fma_baselines.PNG" style="zoom:10%" />
+![test image size](https://github.com/guan-yuan/2018_spring_MIR_course_term_project/blob/master/imgs/fma_baselines.PNG){:height="50%" width="50%"}
 
 #### 6/19:
 ```
