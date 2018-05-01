@@ -13,7 +13,7 @@
 若datasets之資料標註有部份缺失或不足，我們也可以評估是否值得自行標註，或許可以一併拿到資料標註方面的分數。第一周先放寬選擇，建議可以先上完李宏毅transfer learning的影片再開始著手研究。Multitask Training與Domain Adversarial Training皆為可行的方向。
 ```
 
-#### 5/01:
+#### ~~5/01:~~
 ``` 
 繼續datasets之整理(同上週)，並將datasets相關的Statistics(e.g. sizes, features, labels, 及相關descriptions)紀錄於"Dataset Statistics"。  
 
@@ -21,6 +21,18 @@
 ```
 [Dataset Statistics](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)  
 [FMA: A DATASET FOR MUSIC ANALYSIS](https://arxiv.org/pdf/1612.01840.pdf)
+
+#### 5/08:
+```  
+針對Datasets(tasks)設計或者找出相關的models。Baseline或者自己設計的models都可以，並將相關的參數及實驗結果紀錄於"Models Statistics"。
+
+繼續datasets之整理(同上週)，並將datasets相關的Statistics(e.g. sizes, features, labels, 及相關descriptions)紀錄於"Dataset Statistics"。可以盡量找與FMA相關(具有相關或相同的features或labels)的datasets。  
+```
+[Models Statistics](https://docs.google.com/spreadsheets/d/1Ny_7KXNcD0C547nvd-2EmmWnhEhZ-_mGjLmKRjUnz5Q/edit?usp=sharing)
+
+註: 由於[FMA: A Dataset For Music Analysis, ISMIR 2017](https://github.com/mdeff/fma)的品質跟資料數量皆相當不錯，較適合與其他dataset做Domain Adversarial Training，且提供相當豐富的features，建議可以先run看看其提供的相關工具及baseline models(附於dataset之github中)。
+
+[FMA Baselines](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb#Baselines)
 
 #### 6/19:
 ```
