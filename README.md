@@ -22,7 +22,7 @@
 [Dataset Statistics](https://docs.google.com/spreadsheets/d/1BjONqtJ2Y_mOxV7hvBo4GrFjOgYHwnxiLCXZUS1XXqA/edit?usp=sharing)  
 [FMA: A DATASET FOR MUSIC ANALYSIS](https://arxiv.org/pdf/1612.01840.pdf)
 
-#### 5/08:
+#### ~~5/08:~~
 ```  
 針對Datasets(tasks)設計或者找出相關的models。Baseline或者自己設計的models都可以，並將相關的參數及實驗結果紀錄於"Models Statistics"。
 
@@ -34,6 +34,13 @@
 
 [FMA Baselines連結](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb#Baselines)  
 <img src="https://github.com/guan-yuan/2018_spring_MIR_course_term_project/blob/master/imgs/fma_baselines.PNG" width="50%" height="50%">  
+
+#### 5/15:
+
+```
+Please read the paper "Transfer learning for music classification and regression tasks" and
+trace these two github codes "https://github.com/keunwoochoi/transfer_learning_music", "https://github.com/mdeff/fma"
+```
 
 #### 6/19:
 ```
