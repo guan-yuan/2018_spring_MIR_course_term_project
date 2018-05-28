@@ -65,6 +65,11 @@ AAAI 2019,
 Deadline: September 5, 2018
 ```
 
+```
+ICASSP 2019
+Deadline: October 29, 2018
+```
+
 ## Tutorials:
 - [李宏毅 ML Lecture 19 Transfer Learning (優先)](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
 
