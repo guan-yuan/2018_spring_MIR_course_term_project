@@ -35,7 +35,7 @@
 [FMA Baselines連結](https://nbviewer.jupyter.org/github/mdeff/fma/blob/outputs/baselines.ipynb#Baselines)  
 <img src="https://github.com/guan-yuan/2018_spring_MIR_course_term_project/blob/master/imgs/fma_baselines.PNG" width="50%" height="50%">  
 
-#### 5/15:
+#### ~~5/15:~~
 
 ```
 Please read the paper "Transfer learning for music classification and regression tasks" and
