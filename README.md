@@ -42,6 +42,22 @@ Please read the paper "Transfer learning for music classification and regression
 trace these two github codes "https://github.com/keunwoochoi/transfer_learning_music", "https://github.com/mdeff/fma"
 ```
 
+#### 6/05:
+```
+Musical genre classification:
+	source domain:
+		fma_small (https://github.com/mdeff/fma)
+		fma_medium 
+	target domain:
+		GTZAN dataset (http://marsyasweb.appspot.com/download/data_sets/)
+
+Musical emotion recognition:
+	source domain:
+		CISUC multi-modal dataset (http://mir.dei.uc.pt/downloads.html)
+	target domain:
+		Emotion in Music Database (http://cvml.unige.ch/databases/emoMusic/)
+```
+
 #### 6/19:
 ```
 Term Project Presentation (Order:17th)
