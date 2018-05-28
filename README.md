@@ -66,7 +66,7 @@ Deadline: September 5, 2018
 ```
 
 ```
-ICASSP 2019
+ICASSP 2019,
 Deadline: October 29, 2018
 ```
 
