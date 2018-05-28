@@ -53,8 +53,9 @@ Musical genre classification:
 
 Musical emotion recognition:
 	source domain:
-		CISUC multi-modal dataset (http://mir.dei.uc.pt/downloads.html)
+		DEAM dataset (http://cvml.unige.ch/databases/DEAM/)
 	target domain:
+		CISUC multi-modal dataset (http://mir.dei.uc.pt/downloads.html)
 		Emotion in Music Database (http://cvml.unige.ch/databases/emoMusic/)
 ```
 
