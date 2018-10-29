@@ -88,9 +88,9 @@ Deadline: October 29, 2018
 ```
 
 ## Tutorials:
-- [李宏毅 ML Lecture 19 Transfer Learning (優先)](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
+- [李宏毅 ML Lecture 19 Transfer Learning](https://www.youtube.com/watch?v=qD6iD4TFsdQ)
 
-- [PyTorch Tutorials (推薦)](http://pytorch.org/tutorials/)
+- [PyTorch Tutorials](http://pytorch.org/tutorials/)
 
 - [MMD: maximum mean discrepancy (Domain Adaptation 常用的數學理論)](https://blog.csdn.net/a1154761720/article/details/51516273)
 
