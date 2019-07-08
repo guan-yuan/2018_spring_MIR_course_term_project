@@ -149,6 +149,7 @@ Deadline: October 29, 2018
 
 - [SALAMI Dataset](https://github.com/DDMAL/salami-data-public)
 
+- [RWC Music Database](https://staff.aist.go.jp/m.goto/RWC-MDB/)
 
 -----from AWT_2015_Tutorial-----
 
